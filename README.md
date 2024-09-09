@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm L.Sergant Ferman Khankishiyev</h1>
 <h3 align="center">A rank Full Stack Developer and Private Machine Coder from Azerbaijan.</h3>
-<div class="tenor-gif-embed" data-postid="20338212" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/space-galaxy-universe-memes-giggle-gif-20338212">Space Galaxy GIF</a>from <a href="https://tenor.com/search/space-gifs">Space GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fermanfx&label=Profile%20views&color=0e75b6&style=flat" alt="fermanfx" /> </p>
 
