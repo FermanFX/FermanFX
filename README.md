@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm L.Sergant Ferman Khankishiyev</h1>
 <h3 align="center">A rank Full Stack Developer and Private Machine Coder from Azerbaijan.</h3>
-<img src="./image.mp4" style="with=400px;" />
+<img src="./bomber-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--plane-aircraft-airplane-military-pack-crime-security-icons-5650375.mp4" style="with=400px;" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fermanfx&label=Profile%20views&color=0e75b6&style=flat" alt="fermanfx" /> </p>
 
