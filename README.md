@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm L.Sergant Ferman Khankishiyev</h1>
 <h3 align="center">A rank Full Stack Developer and Private Machine Coder from Azerbaijan.</h3>
-<img src="./Drone.gif" align="right" with="350" height="600" />
+<img src="./Drone.gif" align="right" with="350" height="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fermanfx&label=Profile%20views&color=0e75b6&style=flat" alt="fermanfx" /> </p>
 
