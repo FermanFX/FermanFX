@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm L.Sergant Ferman Khankishiyev</h1>
 <h3 align="center">A rank Full Stack Developer and Private Machine Coder from Azerbaijan.</h3>
-<img src="./Drone.gif" align="right" with="350" />
+<img src="./Drone.gif" align="right" with="350" height="200" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fermanfx&label=Profile%20views&color=0e75b6&style=flat" alt="fermanfx" /> </p>
 
 - 🔭 I’m currently working on **Drone air defense system.**
