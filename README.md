@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm L.Sergant Ferman Khankishiyev</h1>
+<h1 align="center">Hi 👋, I'm Ferman Khankishiyev</h1>
 <h3 align="center"> Full Stack Developer and Private Machine Coder.</h3>
 <img src="./Drone.gif" align="right" with="400" height="350" />
 
