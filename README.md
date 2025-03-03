@@ -31,7 +31,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FermanFX&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FermanFX&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FermanFX&theme=flat&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
