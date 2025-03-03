@@ -27,5 +27,20 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fermanfx&show_icons=true&locale=en" alt="fermanfx" /></p>
 
+## 📊 GitHub Stats
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=FermanFX&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+### 📈 GitHub Profile Stats
+[![FermanFX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FermanFX&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🚀 Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FermanFX&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🏆 GitHub Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FermanFX&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
