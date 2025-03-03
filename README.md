@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fermanfx&show_icons=true&locale=en" alt="fermanfx" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FermanFX&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FermanFX&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FermanFX&theme=flat&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
