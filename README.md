@@ -56,4 +56,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FermanFX)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FermanFX&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FermanFX&show_icons=true&theme=tokyonight)
