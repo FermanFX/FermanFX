@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 I’m currently working on **Drone air defense system**
-- 🌱 I’m currently learning **Air defense systems and energetics**
+- 🌱 I’m currently learning **Air defense systems and energetics & Artificial Intelligence**
 - 👯 I’m looking to collaborate on **Nothing for now**
 
 ---
