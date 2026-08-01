@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferman Khankishiyev</h1>
-<h3 align="center">Full Stack Developer and Private Machine Coder</h3>
+<h3 align="center">AI Software Engineer, Full Stack Developer and Private Machine Coder</h3>
 
 <img src="./Drone.gif" align="right" width="400" height="350"/>
 
